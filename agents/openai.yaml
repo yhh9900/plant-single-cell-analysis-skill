@@ -1,0 +1,7 @@
+interface:
+  display_name: "Single-cell Harmony Annotation"
+  short_description: "植物FASTQ到Harmony、拟南芥基因匹配和UMAP"
+  default_prompt: "Use $single-cell-harmony-annotation to process plant single-cell FASTQ data through Harmony clustering, Arabidopsis-matched Top10 marker annotation, and numbered UMAP plotting."
+
+policy:
+  allow_implicit_invocation: true
